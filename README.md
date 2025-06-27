@@ -24,8 +24,6 @@
 
 <p align="left">I am a self-motivated Data Scientist specializing in deep learning and machine learning, driven by a passion for AI innovation. I enjoy tackling complex challenges, from developing novel algorithms to deploying them in intuitive mobile applications with Flutter.</p>
 
-<img src="https://raw.githubusercontent.com/ALJABALI89M/ALJABALI89M/output/snake.svg" alt="Snake animation" />
-
 <p align="left">
   🔭 I’m currently working on enhancing my skills in Deep Learning and building Flutter AI powered mobile apps.<br><br>
   🌱 I’m currently learning more about advanced animation in Flutter and cloud services deployment.<br><br>
