@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there, I'm Mohammad Aljabali</h1>
 
-<p align="left">A passionate AI Scientist and Flutter Developer from Jordan</p>
+<h3 align="center">A passionate AI Scientist and Flutter Developer from Jordan</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aljabali89m/" target="_blank">
@@ -15,7 +15,10 @@
   </a>
 </div>
 
-<p align="left"><a href="https://mohammad-aljabali.vercel.app/" target="_blank">Portfolio</a><br><a href="https://www.researchgate.net/profile/Mohammad-Aljabali" target="_blank">ResearchGate Profile</a></p>
+<p align="center">
+  <a href="https://mohammad-aljabali.vercel.app/" target="_blank">Portfolio</a> | 
+  <a href="https://www.researchgate.net/profile/Mohammad-Aljabali" target="_blank">ResearchGate Profile</a>
+</p>
 
 <h2 align="left">About me</h2>
 
@@ -23,11 +26,18 @@
 
 <img src="https://raw.githubusercontent.com/ALJABALI89M/ALJABALI89M/output/snake.svg" alt="Snake animation" />
 
-<h6 align="left">🔭 I’m currently working on enhancing my skills in Deep Learning and building Flutter AI powered mobile apps.<br><br>🌱 I’m currently learning more about advanced animation in Flutter and cloud services deployment.<br><br>💬 Ask me about Deep Learning, Computer Vision, and Flutter.</h6>
+<p align="left">
+  🔭 I’m currently working on enhancing my skills in Deep Learning and building Flutter AI powered mobile apps.<br><br>
+  🌱 I’m currently learning more about advanced animation in Flutter and cloud services deployment.<br><br>
+  💬 Ask me about Deep Learning, Computer Vision, and Flutter.
+</p>
 
 <h2 align="left">Key Achievements & Spotlights</h2>
 
-<h6 align="left">📱 Featured Project: <a href="https://github.com/aljabali89m/Skin-Lesions-Detection-flutter-app" target="_blank">Skin Lesions Detection flutter app</a> - This project is a Flutter-based mobile application designed for skin disease detection. It uses a Python backend powered by a Vision Transformer (ViT) model to classify skin lesions from images captured or uploaded by the user. The app connects to the local server, exposed to the internet using pyngrok, to deliver real-time predictions.<br><br>📄 Published Research: Co-authored a conference paper on the application of deep learning for automated lesion detection. You can read it here: <a href="https://www.researchgate.net/publication/392896407" target="_blank">A Vision Transformer-Based Framework for Multi-Class Skin Lesions</a></h6>
+<p align="left">
+  📱 <strong>Featured Project:</strong> <a href="https://github.com/aljabali89m/Skin-Lesions-Detection-flutter-app" target="_blank">Skin Lesions Detection flutter app</a> - This project is a Flutter-based mobile application designed for skin disease detection. It uses a Python backend powered by a Vision Transformer (ViT) model to classify skin lesions from images captured or uploaded by the user. The app connects to the local server, exposed to the internet using pyngrok, to deliver real-time predictions.<br><br>
+  📄 <strong>Published Research:</strong> Co-authored a conference paper on the application of deep learning for automated lesion detection. You can read it here: <a href="https://www.researchgate.net/publication/392896407" target="_blank">A Vision Transformer-Based Framework for Multi-Class Skin Lesions</a>
+</p>
 
 <h2 align="left">I code with</h2>
 
